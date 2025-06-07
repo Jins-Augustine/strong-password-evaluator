@@ -37,16 +37,14 @@ To understand what makes a password strong and test it against online password s
 
 ---
 
-## 📸 Screenshots
-
-> Add your actual screenshot files in the `screenshots/` folder and update paths if needed.
-
 - **Very Weak**  
   ![123456](screenshots/123456.jpg)
+  
   ![password](screenshots/password.jpg)
 
 - **Good**  
   ![password123](screenshots/password123.jpg)
+  
   ![qwerty2025](screenshots/qwerty2025.jpg)
 
   - **Strong**  
@@ -56,6 +54,7 @@ To understand what makes a password strong and test it against online password s
 
 - **Very Strong**  
   ![Tr33s#GroW2025](screenshots/tr33s.jpg)
+  
   ![A$1mPl3P@ss!](screenshots/simplepass.jpg)
 
 ---
