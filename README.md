@@ -19,7 +19,6 @@ To understand what makes a password strong and test it against online password s
 3. Tested each password using the password strength checker.
 4. Noted scores, feedback, and deductions.
 5. Researched password best practices and common attacks.
-6. Summarized the findings.
 
 ---
 
