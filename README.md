@@ -8,7 +8,7 @@ To understand what makes a password strong and test it against online password s
 ---
 
 ## 🧰 Tools Used
-- [PasswordMeter.com](https://www.passwordmeter.com/)
+- [passwordmeter.com](https://www.passwordmeter.com/)
 
 ---
 
